@@ -14,7 +14,7 @@ module.exports = {
         inter: ['Inter', 'sans-serif']
       },
       colors: {
-        'basic green': '#0a8243',
+        'basic_green': '#0a8243',
       },
     },
   },
